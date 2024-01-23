@@ -1,4 +1,4 @@
-<h1 align="center">HI 👋 I'm Devis Martinez</h1>
+<h1 align="center">HI 👋 I'm Deivis Martinez</h1>
 
 ###
 
